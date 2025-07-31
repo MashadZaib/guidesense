@@ -19,9 +19,9 @@ Edit
 Put your `.txt` guideline files inside this folder:
 
 guidline-docs/
-├── php.txt
-├── mern.txt
-└── html-css-js.txt
+├── file1.txt
+├── file2.txt
+└── file3.txt
 
 java
 Copy
